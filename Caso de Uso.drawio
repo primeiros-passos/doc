@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" modified="2023-05-28T20:34:00.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2cqC4ku6N8TwYrV9vrR_" version="21.3.5" type="device">
+  <diagram name="Página-1" id="SfuLlFWcCLjKDKsuPe07">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LvotMxFGNaVJaKgsnFDd-1" target="LvotMxFGNaVJaKgsnFDd-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LvotMxFGNaVJaKgsnFDd-1" target="LvotMxFGNaVJaKgsnFDd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LvotMxFGNaVJaKgsnFDd-1" target="LvotMxFGNaVJaKgsnFDd-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LvotMxFGNaVJaKgsnFDd-1" target="LvotMxFGNaVJaKgsnFDd-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LvotMxFGNaVJaKgsnFDd-1" target="LvotMxFGNaVJaKgsnFDd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-1" value="Estudante" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="54" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.908;entryY=0.85;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" edge="1" parent="1" source="LvotMxFGNaVJaKgsnFDd-2" target="LvotMxFGNaVJaKgsnFDd-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LvotMxFGNaVJaKgsnFDd-2" target="LvotMxFGNaVJaKgsnFDd-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="LvotMxFGNaVJaKgsnFDd-2" target="LvotMxFGNaVJaKgsnFDd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-2" value="Moderador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="743" y="460" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-5" value="Solicita comunidade" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-6" value="Procura comunidade" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="233" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-14" value="Excluir conteúdo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-15" value="Editar conteúdo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="243" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-19" value="Sugerir conteúdo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="LvotMxFGNaVJaKgsnFDd-15" target="LvotMxFGNaVJaKgsnFDd-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="363" y="420" as="sourcePoint" />
+            <mxPoint x="463" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-21" value="&amp;lt;&amp;lt; extend&amp;nbsp;&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="LvotMxFGNaVJaKgsnFDd-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="LvotMxFGNaVJaKgsnFDd-4" target="LvotMxFGNaVJaKgsnFDd-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="417" y="250" as="sourcePoint" />
+            <mxPoint x="537" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-23" value="&amp;lt;&amp;lt; extend&amp;nbsp;&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="LvotMxFGNaVJaKgsnFDd-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="LvotMxFGNaVJaKgsnFDd-14" target="LvotMxFGNaVJaKgsnFDd-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393" y="240" as="sourcePoint" />
+            <mxPoint x="513" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-27" value="&amp;lt;&amp;lt; extend&amp;nbsp;&amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="LvotMxFGNaVJaKgsnFDd-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-32" value="Aprova conteúdo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="463" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-33" value="Aprova comunidade" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="503" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-36" value="Mantém moderador" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="LvotMxFGNaVJaKgsnFDd-32" target="LvotMxFGNaVJaKgsnFDd-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="603" y="230" as="sourcePoint" />
+            <mxPoint x="733" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-39" value="&amp;lt;&amp;lt; include &amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="LvotMxFGNaVJaKgsnFDd-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="LvotMxFGNaVJaKgsnFDd-33" target="LvotMxFGNaVJaKgsnFDd-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="427" y="570" as="sourcePoint" />
+            <mxPoint x="417" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-41" value="&amp;lt;&amp;lt; include &amp;gt;&amp;gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="LvotMxFGNaVJaKgsnFDd-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-43" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="143" y="50" width="520" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-44" value="Sistema - Primeiros Passos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="LvotMxFGNaVJaKgsnFDd-43">
+          <mxGeometry x="175" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvotMxFGNaVJaKgsnFDd-4" value="Adicionar conteúdo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="LvotMxFGNaVJaKgsnFDd-43">
+          <mxGeometry x="80" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
